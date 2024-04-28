@@ -1,7 +1,4 @@
-/*
-Name: Maaz Aslam Chogle                                               Batch: 1
-Roll no.: 21CO19                                                   Sem: VI
-*/
+
 
 #ifndef YY_YY_Y_TAB_H_INCLUDED
 # define YY_YY_Y_TAB_H_INCLUDED
