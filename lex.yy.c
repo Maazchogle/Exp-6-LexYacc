@@ -1,7 +1,4 @@
-/*
-Name: Maaz Aslam Chogle                                               Batch: 1
-Roll no.: 21CO19                                                   Sem: VI
-*/
+
 #line 3 "lex.yy.c"
 
 #define  YY_INT_ALIGNED short int
